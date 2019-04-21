@@ -1,0 +1,401 @@
+hid,nombre_hotel,direccion_hotel,telefono_hotel,estrellas,rid
+0,Hotel Industrias Altamirano y Galarza,Callejón Mónaco 898 Interior 236,+56929812651,3,0
+1,Hotel Barela-Almanza,"Peatonal Puebla 091 Edif. 961 , Depto. 549",+56977849487,5,0
+2,Hotel Girón-Navarro A.C.,"Calzada Colombia 562 Edif. 348 , Depto. 575",+56963344730,1,0
+3,"Hotel Corporacin Adame, Ceballos y Nazario",Boulevard Godoy 928 463,+56966786806,2,0
+4,Hotel Alemán-Olivas,"Circunvalación Arredondo 580 Edif. 580 , Depto. 707",+56949866616,4,0
+5,"Hotel Club Valdez, Pichardo y Guevara",Callejón Tlaxcala 045 097,+56931515941,3,0
+6,Hotel Mata y Perales e Hijos,"Callejón Morelos 183 Edif. 080 , Depto. 764",+56936240948,3,0
+7,"Hotel Casas, Paz y Iglesias",Privada Oaxaca 116 697,+56928376408,5,0
+8,Hotel Angulo-Jaimes S.C.,"Boulevard Acevedo 363 Edif. 224 , Depto. 071",+56938726680,3,0
+9,Hotel Industrias Robles-Rubio,Privada Chiapas 531 Interior 710,+56949777879,3,0
+10,Hotel Archuleta y Caraballo S.A. de C.V.,Periférico Sur Orellana 103 649,+56903427420,1,0
+11,Hotel Zapata-Delgado y Asociados,Circuito Razo 499 Interior 353,+56960686587,2,0
+12,Hotel Rivera y Covarrubias A.C.,Calzada San Marino 421 Interior 211,+56979652146,4,0
+13,Hotel Despacho Guerra y Alcala,Eje vial Oquendo 181 943,+56984714758,2,0
+14,"Hotel Industrias Ramos, Vargas y Campos",Circuito Limón 936 230,+56929367256,2,0
+15,"Hotel Proyectos Sisneros, Bueno y Mota",Diagonal Malasia 238 Interior 070,+56980421394,2,0
+16,Hotel Alba-Aranda,Avenida Villanueva 471 Interior 705,+56963051758,1,0
+17,Hotel Altamirano y Arguello S. R.L. de C.V.,Avenida Belice 104 615,+56954040620,5,0
+18,Hotel Proyectos Leal y Hidalgo,"Circuito Quintana Roo 816 Edif. 780 , Depto. 923",+56944981095,1,0
+19,Hotel Orta y Romero y Asociados,"Boulevard El Salvador 674 Edif. 108 , Depto. 886",+56966832703,4,0
+20,Hotel Angulo y Alcala S.A.,Periférico Bolivia 195 Interior 166,+56997643116,3,0
+21,Hotel Jaimes y Cardona A.C.,Avenida Norte de la Rosa 251 472,+56962013398,2,0
+22,Hotel Club Perales-Concepción,Retorno Hidalgo 245 Interior 592,+56999647675,5,0
+23,Hotel Grupo Terrazas-Ortiz,Prolongación Turkmenistán 762 231,+56902420959,3,0
+24,Hotel Salinas S.A.,"Circuito Oaxaca 850 Edif. 955 , Depto. 821",+56956301315,4,0
+25,Hotel Serrano-Jasso y Asociados,"Circuito República Democrática Popular Lao 215 Edif. 458 , Depto. 882",+56988052519,2,1
+26,Hotel Laboratorios Ramos y Echeverría,Boulevard Norte Badillo 645 Interior 072,+56963413003,5,1
+27,Hotel Grupo Crespo y Serna,Circuito Sanabria 104 049,+56948794632,5,1
+28,Hotel Marrero y Rivas S. R.L. de C.V.,Circuito Flórez 919 843,+56936279806,5,1
+29,Hotel Zelaya y Jiménez y Asociados,"Privada Luxemburgo 142 Edif. 353 , Depto. 299",+56914606336,3,1
+30,Hotel Corporacin Salas-Esquibel,Prolongación Irlanda 743 Interior 567,+56918999261,2,1
+31,"Hotel Cordero, Nava y Anguiano","Calzada Norte Sánchez 382 Edif. 662 , Depto. 657",+56958007567,2,1
+32,Hotel Grupo Zúñiga-Mateo,Ampliación Norte Caballero 163 245,+56995193832,1,1
+33,Hotel Club Vázquez y Rodrígez,Callejón Alonzo 664 390,+56982880783,3,1
+34,Hotel Roybal-Peña e Hijos,"Viaducto Chihuahua 512 Edif. 054 , Depto. 515",+56936537721,3,1
+35,Hotel Ruelas S.C.,"Continuación Barela 286 Edif. 898 , Depto. 964",+56960984291,1,1
+36,Hotel Camacho S. R.L. de C.V.,"Avenida Alarcón 367 Edif. 468 , Depto. 264",+56992159205,3,1
+37,"Hotel Club Solorio, Tovar y Soto",Calzada Países Bajos 745 Interior 478,+56948543603,1,1
+38,Hotel Ledesma S.A.,Peatonal Serna 063 176,+56969682198,2,1
+39,Hotel Padrón-Moya,Corredor Yucatán 515 741,+56950756427,1,1
+40,"Hotel Esparza, Pulido y Bétancourt",Boulevard Sur Roque 456 Interior 877,+56940032380,4,1
+41,"Hotel Velázquez, Gurule y Delgado","Privada Guerrero 590 Edif. 354 , Depto. 697",+56967767066,4,1
+42,Hotel Palacios-Palacios S.A.,Circunvalación Sur Zapata 603 Interior 358,+56949209593,5,1
+43,Hotel Club Tejada-Medrano,Peatonal Tlaxcala 127 Interior 094,+56917871095,1,1
+44,"Hotel Marroquín, Saldivar y Griego",Circuito Israel 004 466,+56932322018,3,1
+45,"Hotel Corporacin Ornelas, Amaya y Navarrete",Privada Gómez 494 Interior 494,+56912328356,5,1
+46,Hotel Carrión S.C.,Peatonal Paz 238 Interior 719,+56938646909,5,1
+47,Hotel Menchaca y Montenegro S.C.,Corredor Guanajuato 673 781,+56974273882,4,1
+48,Hotel Laboratorios Casillas-Castro,Ampliación San Luis Potosí 088 Interior 402,+56942854927,5,1
+49,Hotel Nevárez y Pizarro S. R.L. de C.V.,Circunvalación Blanco 797 Interior 200,+56914222029,3,1
+50,"Hotel Club Delgado, Garay y Galarza",Continuación Norte Garay 308 Interior 123,+56907475416,1,2
+51,Hotel Casanova e Hijos,Viaducto Sur Amaya 086 230,+56941069387,4,2
+52,"Hotel Grupo Hernández, Salgado y Anguiano",Calzada Sur Vega 941 056,+56954664465,2,2
+53,Hotel Sisneros y Asociados,Callejón Sur Heredia 840 Interior 003,+56929961042,3,2
+54,Hotel Navarrete-Limón S.C.,"Circunvalación Norte Viera 536 Edif. 399 , Depto. 621",+56953190925,5,2
+55,Hotel Cuellar y de León S. R.L. de C.V.,Calzada Malawi 759 Interior 720,+56982715867,1,2
+56,"Hotel Despacho Alcala, Córdova y Pichardo",Pasaje Norte Ureña 945 Interior 253,+56955747490,1,2
+57,"Hotel Proyectos Espinosa, Puente y Olvera",Circuito Egipto 799 046,+56940891536,2,2
+58,Hotel Lomeli S. R.L. de C.V.,"Boulevard Tamayo 317 Edif. 431 , Depto. 193",+56916880554,5,2
+59,Hotel Ocasio S.C.,Callejón Otero 520 Interior 259,+56909698649,1,2
+60,Hotel Saldaña e Hijos,Corredor Sur Villegas 451 Interior 108,+56975365656,2,2
+61,Hotel Blanco y Asociados,"Prolongación Esparza 739 Edif. 459 , Depto. 505",+56999757668,4,2
+62,Hotel Despacho Soliz y Palomino,Retorno Eritrea 041 227,+56975449310,2,2
+63,"Hotel Calvillo, Iglesias y Quintana","Continuación Ybarra 425 Edif. 616 , Depto. 937",+56998003445,5,2
+64,"Hotel Industrias Leal, de la O y Garza","Andador Norte Romero 834 Edif. 363 , Depto. 139",+56929860258,2,2
+65,Hotel Pérez-Rivas,"Pasaje Manzanares 354 Edif. 746 , Depto. 967",+56943839782,4,2
+66,Hotel Ureña-Beltrán,Callejón Estonia 663 Interior 867,+56984463579,2,2
+67,Hotel Cotto-Méndez S. R.L. de C.V.,Corredor Quiñónez 138 387,+56916788880,1,2
+68,Hotel Proyectos Abrego-Blanco,Eje vial San Luis Potosí 695 498,+56994590435,2,2
+69,Hotel de la Fuente-Bétancourt A.C.,"Retorno Ordóñez 007 Edif. 610 , Depto. 490",+56919197313,5,2
+70,Hotel Maldonado y Orozco S.A. de C.V.,Pasaje Tafoya 333 Interior 688,+56995703962,1,2
+71,"Hotel Laboratorios Zaragoza, Cantú y Quiroz",Circunvalación Tabasco 776 114,+56939123645,5,2
+72,Hotel Estévez e Hijos,"Circunvalación Afganistán 014 Edif. 366 , Depto. 786",+56957088587,3,2
+73,"Hotel Venegas, Arteaga y Rangel",Circunvalación Norte Ferrer 779 508,+56962333932,1,2
+74,Hotel Industrias Marín y Murillo,Corredor Belice 303 Interior 281,+56986071600,1,2
+75,"Hotel Ureña, Echeverría y Rosario",Peatonal Norte Lucero 737 Interior 456,+56999665905,1,3
+76,Hotel Velázquez S.C.,Calle Palacios 969 Interior 426,+56968946570,2,3
+77,Hotel Alba-Figueroa,Calzada Sur Salazar 094 Interior 727,+56989347179,3,3
+78,"Hotel Sierra, Fierro y Guillen","Diagonal Arriaga 922 Edif. 498 , Depto. 286",+56912653771,4,3
+79,"Hotel Club Escalante, Linares y García","Calle Puebla 999 Edif. 907 , Depto. 985",+56992964804,3,3
+80,Hotel Negrón-Amador S. R.L. de C.V.,"Prolongación Oaxaca 808 Edif. 162 , Depto. 024",+56929837060,3,3
+81,Hotel Perales-Garibay S.A. de C.V.,"Boulevard Ecuador 189 Edif. 346 , Depto. 308",+56963868753,2,3
+82,Hotel Manzanares S.A. de C.V.,Callejón Sur Caldera 125 Interior 247,+56959799290,3,3
+83,Hotel Industrias Meraz-Valenzuela,Calzada Norte Bañuelos 990 Interior 428,+56965151730,1,3
+84,Hotel Guerrero y Barajas y Asociados,Ampliación Nuevo León 528 171,+56992273296,5,3
+85,"Hotel Saldaña, Mendoza y Rael","Prolongación Quintana Roo 425 Edif. 523 , Depto. 961",+56959041536,5,3
+86,"Hotel Almanza, Villareal y Raya",Continuación Montemayor 153 961,+56908600068,3,3
+87,Hotel Corral y Muñiz e Hijos,Ampliación Norte Esquibel 231 622,+56934530618,5,3
+88,Hotel Amaya y Alba y Asociados,Pasaje Letonia 149 841,+56908777632,5,3
+89,"Hotel Villaseñor, Casares y Ulloa","Cerrada Namibia 389 Edif. 591 , Depto. 012",+56905088388,4,3
+90,Hotel Guerrero-Chacón S.A. de C.V.,Cerrada Escamilla 497 796,+56955856744,2,3
+91,Hotel Salcedo-Linares S. R.L. de C.V.,Corredor Sur Gurule 327 Interior 109,+56997088822,4,3
+92,Hotel de la Fuente-Valadez e Hijos,Retorno Aguascalientes 674 442,+56955332668,2,3
+93,Hotel Hernández-Soto,"Calzada Tlaxcala 584 Edif. 660 , Depto. 854",+56930768414,2,3
+94,"Hotel Corporacin Lemus, Roldán y Baeza",Calzada Niño 415 Interior 004,+56923932977,1,3
+95,Hotel Ortiz e Hijos,Andador España 722 Interior 855,+56977344784,4,3
+96,Hotel Pichardo-Aragón e Hijos,"Prolongación Norte Pabón 369 Edif. 481 , Depto. 880",+56918346583,5,3
+97,Hotel Valverde y Alcántar S.A. de C.V.,Prolongación Ureña 045 Interior 187,+56984582539,3,3
+98,"Hotel Corporacin Rivero, Barraza y Arenas","Callejón Caraballo 698 Edif. 505 , Depto. 810",+56994227864,3,3
+99,Hotel Velásquez A.C.,Periférico Colima 615 Interior 495,+56911614593,3,3
+100,Hotel Orta S.A.,"Calzada Guerrero 325 Edif. 427 , Depto. 478",+56997756414,1,4
+101,"Hotel Proyectos Bahena, Lucio y Olivo",Boulevard Norte Bétancourt 889 Interior 052,+56990696526,5,4
+102,"Hotel Rolón, Olmos y Pedraza",Circunvalación Mondragón 695 191,+56968258153,1,4
+103,Hotel Barragán y Echeverría S.C.,"Continuación Oaxaca 205 Edif. 874 , Depto. 613",+56907494129,1,4
+104,Hotel Ayala y Estévez S.A.,Callejón Zayas 803 308,+56912360538,4,4
+105,Hotel Caldera-Alba S.C.,Cerrada Berríos 044 Interior 590,+56924410249,5,4
+106,Hotel Club Echeverría-Ponce,"Calle Serbia 751 Edif. 671 , Depto. 891",+56935622282,5,4
+107,Hotel Industrias Arce-Estévez,Calzada Chihuahua 282 874,+56995164757,2,4
+108,Hotel Despacho Ybarra y de la Fuente,"Cerrada Côte d'Ivoire 743 Edif. 735 , Depto. 354",+56903416146,5,4
+109,Hotel Laboratorios Tafoya y Samaniego,"Circuito Chihuahua 568 Edif. 185 , Depto. 607",+56939189235,3,4
+110,"Hotel Industrias Ordóñez, Zambrano y Ayala",Calzada Sánchez 087 Interior 608,+56953576112,4,4
+111,Hotel Ávila-Adame S.A.,Ampliación Seychelles 304 570,+56925354849,3,4
+112,Hotel Proyectos Alvarez-Luevano,"Calle Michoacán de Ocampo 981 Edif. 476 , Depto. 435",+56983964657,3,4
+113,"Hotel Porras, Castro y Méndez",Periférico Norte de la Fuente 180 Interior 912,+56933011697,5,4
+114,Hotel Partida-Orta,"Avenida Merino 852 Edif. 478 , Depto. 669",+56977516287,5,4
+115,Hotel Vaca-Cuellar e Hijos,Calzada Hidalgo 644 Interior 749,+56916820498,5,4
+116,Hotel Industrias Arevalo y Vázquez,Calle Norte Polanco 882 534,+56991701396,1,4
+117,"Hotel Grupo Espino, Peña y Galván",Continuación ex República Yugoslava de Macedonia 013 Interior 986,+56909189894,3,4
+118,Hotel Madrid y Bonilla e Hijos,Boulevard Norte Arguello 019 Interior 189,+56959269120,5,4
+119,"Hotel Páez, Chacón y Acosta",Periférico San Vicente y las Granadinas 276 822,+56924217464,2,4
+120,Hotel Club Almonte-Treviño,Pasaje Polanco 405 Interior 902,+56923405680,5,4
+121,Hotel Orellana-Collazo S.C.,Avenida Norte Vega 340 Interior 149,+56974032045,3,4
+122,Hotel Valle-Valencia,Ampliación Jamaica 334 262,+56928333098,2,4
+123,Hotel Puente-Mireles,Periférico Sinaloa 368 225,+56982558985,5,4
+124,"Hotel Laboratorios Coronado, Carreón y Casanova",Circunvalación Niger 203 020,+56926487633,1,4
+125,"Hotel Cervantes, Vaca y Rael",Calzada Congo 360 Interior 786,+56976999208,5,5
+126,Hotel Rascón S.A. de C.V.,Calle Camerún 327 166,+56981015203,5,5
+127,Hotel Industrias Prado y Montoya,"Eje vial Querétaro 424 Edif. 311 , Depto. 873",+56952885146,5,5
+128,Hotel Proyectos Palomo-Salcido,Privada Norte Cervántez 029 Interior 821,+56910009934,1,5
+129,Hotel Laboratorios Anaya-Ortiz,"Callejón Querétaro 245 Edif. 558 , Depto. 685",+56926277434,1,5
+130,Hotel Grijalva-Granados A.C.,Calzada Coahuila de Zaragoza 408 734,+56964732192,5,5
+131,Hotel Ocasio-Amador,"Callejón Norte Padilla 468 Edif. 215 , Depto. 422",+56916671779,4,5
+132,Hotel Mascareñas-Navarro,"Cerrada Sur Sandoval 615 Edif. 914 , Depto. 155",+56954415000,5,5
+133,Hotel Corporacin Barela y Hernández,Callejón Mercado 668 Interior 246,+56914510354,2,5
+134,"Hotel Industrias Ureña, Terán y Montoya","Periférico Egipto 542 Edif. 480 , Depto. 931",+56997400514,3,5
+135,"Hotel Galindo, Bermúdez y Maestas",Peatonal Norte Terán 339 Interior 196,+56925072569,1,5
+136,Hotel Roldán S.C.,Diagonal Finlandia 524 Interior 523,+56915681492,5,5
+137,Hotel Mares-Escobar S.A. de C.V.,"Eje vial Tórrez 624 Edif. 739 , Depto. 029",+56946520022,4,5
+138,Hotel Madrid S.A. de C.V.,Avenida Sur Mayorga 521 Interior 922,+56964836627,4,5
+139,Hotel Barajas y Barreto S.C.,"Circunvalación Norte Lucio 228 Edif. 508 , Depto. 053",+56921926155,1,5
+140,Hotel Piña-García e Hijos,Diagonal Huerta 812 Interior 984,+56963018320,5,5
+141,Hotel Merino y Sandoval S.A. de C.V.,Continuación Norte Barreto 805 929,+56900031092,2,5
+142,"Hotel Lemus, Cedillo y Gracia",Pasaje Cuba 555 374,+56976459150,5,5
+143,"Hotel Industrias Peralta, Madrigal y Jurado",Viaducto Niger 795 700,+56952595300,2,5
+144,"Hotel Balderas, Coronado y Pedroza","Ampliación Tlaxcala 273 Edif. 018 , Depto. 345",+56981864592,1,5
+145,Hotel Salinas-Venegas S.C.,Andador Norte Calvillo 045 Interior 835,+56930792305,4,5
+146,Hotel Tamez-Navarro S. R.L. de C.V.,"Callejón Sur Alejandro 135 Edif. 554 , Depto. 127",+56904550866,3,5
+147,Hotel Gaona-Samaniego,Andador Sauceda 407 Interior 594,+56948701489,5,5
+148,Hotel Olmos-Tórrez,Diagonal Mauritania 288 242,+56980265598,4,5
+149,"Hotel Laboratorios Quiñones, Lebrón y Ramón",Privada Norte Rascón 244 Interior 596,+56943280016,4,5
+150,"Hotel Godoy, Rojas y Iglesias",Eje vial Sur Borrego 748 382,+56971060998,5,6
+151,Hotel Noriega-Nazario S. R.L. de C.V.,Circunvalación Sur Colunga 900 Interior 316,+56953190340,2,6
+152,Hotel Véliz y Baeza S.A. de C.V.,"Eje vial Bermúdez 798 Edif. 047 , Depto. 819",+56929093498,2,6
+153,Hotel Laboratorios Verduzco-Aguilar,Cerrada Paraguay 035 Interior 725,+56922774522,1,6
+154,Hotel Galván-Carrera S.A. de C.V.,Callejón Colima 709 Interior 194,+56955487476,4,6
+155,Hotel Club Cantú-Cintrón,Cerrada Tuvalu 627 925,+56947105810,3,6
+156,Hotel Segura-Velasco,Peatonal Norte Godínez 951 Interior 901,+56985137308,5,6
+157,"Hotel Club Rosales, Ordóñez y Apodaca","Boulevard Sur Rentería 038 Edif. 739 , Depto. 862",+56910175727,1,6
+158,"Hotel Corporacin Yáñez, Véliz y Cruz",Viaducto Norte Guajardo 529 Interior 884,+56929162406,1,6
+159,Hotel Valdés y Alarcón S.A. de C.V.,Privada Tabasco 959 597,+56902786042,3,6
+160,Hotel Acosta S. R.L. de C.V.,Avenida Países Bajos 145 Interior 715,+56989799119,4,6
+161,Hotel de la Fuente-Varela,"Continuación Mayorga 220 Edif. 490 , Depto. 122",+56913859631,5,6
+162,Hotel Club Tórrez y Carvajal,"Viaducto Puebla 241 Edif. 608 , Depto. 246",+56900806729,2,6
+163,Hotel Club Mena y Rivero,"Peatonal Georgia 203 Edif. 816 , Depto. 579",+56990736446,2,6
+164,Hotel Ramírez-Molina e Hijos,"Ampliación Guerrero 413 Edif. 306 , Depto. 653",+56976677573,4,6
+165,Hotel Laboratorios Zayas y Ozuna,"Periférico Noruega 153 Edif. 109 , Depto. 534",+56932448070,1,6
+166,"Hotel Club Briseño, Aguayo y Alcala",Circunvalación Lemus 940 871,+56998521740,2,6
+167,Hotel Acuña y Melgar A.C.,Peatonal Urías 381 Interior 401,+56947522448,2,6
+168,"Hotel Laboratorios Quiñones, Blanco y Gamboa",Boulevard Quintero 001 871,+56986274266,2,6
+169,Hotel Chacón y Carrillo e Hijos,Prolongación Norte Alarcón 589 955,+56972161358,5,6
+170,"Hotel Mercado, Gastélum y Alcaraz","Peatonal Sur Montalvo 368 Edif. 822 , Depto. 590",+56963295079,3,6
+171,Hotel Bermúdez y Balderas e Hijos,"Eje vial Yucatán 933 Edif. 774 , Depto. 979",+56974867285,4,6
+172,Hotel Zúñiga-Villaseñor,Avenida Hidalgo 986 211,+56999892045,3,6
+173,"Hotel Laboratorios Ozuna, Quiroz y Valladares",Prolongación Cuellar 976 Interior 562,+56999646855,4,6
+174,Hotel Angulo y Pedroza y Asociados,"Circunvalación Norte Lemus 495 Edif. 243 , Depto. 658",+56965314232,5,6
+175,Hotel Proyectos Soto y Villa,Viaducto Blanco 118 974,+56908352568,1,7
+176,"Hotel Industrias Mata, Osorio y Salgado",Boulevard Sur Farías 727 044,+56983169715,1,7
+177,"Hotel Corporacin Ibarra, Saavedra y Briones","Periférico Norte Bustos 932 Edif. 833 , Depto. 453",+56973096006,1,7
+178,Hotel Enríquez y Rodarte A.C.,Privada Casares 193 Interior 186,+56964369895,5,7
+179,Hotel Quintero A.C.,Prolongación Zacatecas 938 Interior 779,+56916057893,2,7
+180,Hotel Corporacin Arellano-Verduzco,"Diagonal Sanabria 225 Edif. 241 , Depto. 320",+56973356885,1,7
+181,Hotel Montemayor-Mercado S.C.,Eje vial Norte Valdivia 476 901,+56944869641,3,7
+182,Hotel Olivares-Gollum e Hijos,"Eje vial Guanajuato 279 Edif. 043 , Depto. 651",+56974027279,1,7
+183,Hotel Grupo Cardona-Ávila,"Peatonal Norte Camarillo 075 Edif. 712 , Depto. 159",+56912575900,4,7
+184,Hotel Pizarro-Dueñas,"Retorno Chihuahua 644 Edif. 096 , Depto. 562",+56939956669,4,7
+185,"Hotel Mondragón, Quesada y Arteaga","Continuación Suiza 668 Edif. 701 , Depto. 264",+56978332112,3,7
+186,Hotel Industrias Lebrón y Lemus,"Retorno Austria 080 Edif. 525 , Depto. 658",+56950112901,2,7
+187,"Hotel Proyectos Rodríguez, Mateo y Jimínez",Avenida Distrito Federal 546 974,+56990766605,5,7
+188,Hotel Industrias Valdivia y Colunga,"Peatonal Comoras 501 Edif. 331 , Depto. 086",+56970532837,4,7
+189,Hotel Despacho Mondragón-Flórez,"Periférico Comoras 105 Edif. 122 , Depto. 454",+56930886489,3,7
+190,Hotel Yáñez S.A. de C.V.,Ampliación Sinaloa 299 125,+56921340711,2,7
+191,Hotel Soto y Juárez y Asociados,"Circunvalación Sur Santillán 954 Edif. 046 , Depto. 406",+56905971789,2,7
+192,Hotel Pelayo y Rosas y Asociados,Andador Franco 836 Interior 829,+56930667209,3,7
+193,Hotel Industrias Pulido-Bonilla,Retorno Sur Mercado 558 578,+56956787451,2,7
+194,Hotel Arenas-Galarza y Asociados,Calle Durango 620 Interior 864,+56991977253,4,7
+195,Hotel Corporacin Meza-Hurtado,Calle Tlaxcala 030 629,+56964886172,4,7
+196,Hotel Club Valadez y Delgado,"Andador Norte Tejada 211 Edif. 087 , Depto. 410",+56994514923,1,7
+197,Hotel Proyectos Cotto-Dávila,Corredor Norte Nieto 950 138,+56985959310,1,7
+198,Hotel Corrales-Cedillo S.A. de C.V.,Boulevard Norte Lugo 763 345,+56929876933,3,7
+199,Hotel Bétancourt-Quintana S.A. de C.V.,"Circuito Norte Pulido 864 Edif. 545 , Depto. 564",+56959833849,3,7
+200,Hotel Naranjo y Ávalos S.A.,"Diagonal Querétaro 912 Edif. 662 , Depto. 595",+56900681611,1,8
+201,Hotel Limón y Aguirre S.C.,"Pasaje Norte Rosado 159 Edif. 461 , Depto. 888",+56946575622,1,8
+202,Hotel Gutiérrez-Blanco,Cerrada Norte Carrero 214 391,+56900943490,5,8
+203,"Hotel Pabón, Benavídez y Villareal",Viaducto Batista 620 409,+56934302592,1,8
+204,Hotel Cabrera y Hinojosa S.A. de C.V.,"Periférico Puebla 529 Edif. 201 , Depto. 273",+56924989142,2,8
+205,Hotel Pedraza-Saldivar,Privada Chad 116 Interior 369,+56933803072,4,8
+206,Hotel Castro-Barela,Cerrada Mauricio 231 364,+56910358805,5,8
+207,"Hotel Rivera, Cervántez y Alfaro",Cerrada Espinoza 025 Interior 273,+56984066682,5,8
+208,Hotel Almonte-Zelaya S. R.L. de C.V.,Peatonal Hidalgo 398 967,+56916978564,3,8
+209,Hotel Dávila-Alcala S.C.,Periférico Esquibel 297 Interior 784,+56980966844,5,8
+210,Hotel Corporacin Reynoso-Villaseñor,Eje vial Hidalgo 754 015,+56946810728,5,8
+211,Hotel Corporacin Reynoso y Almaraz,Peatonal Tayikistán 317 885,+56920575512,2,8
+212,Hotel Industrias Aguilera-Canales,Calzada Norte Mateo 615 Interior 831,+56938737661,2,8
+213,"Hotel Guillen, Miranda y Colunga",Calle Sur Rivas 450 145,+56970918814,2,8
+214,"Hotel Grupo Rentería, Becerra y Manzanares",Eje vial Sur Girón 881 748,+56919429722,5,8
+215,Hotel Proyectos García y Figueroa,Peatonal Vietman 802 587,+56902064721,1,8
+216,Hotel Corporacin Domínguez y Garza,Callejón Baja California 045 838,+56931456596,1,8
+217,Hotel Despacho de Jesús y Alonso,Privada Marroquín 540 785,+56946102793,5,8
+218,"Hotel Laboratorios Serrato, Valdivia y Amador",Eje vial Sudáfrica 992 039,+56908428104,3,8
+219,Hotel Santillán-Rodarte y Asociados,Circuito Puebla 349 Interior 203,+56962996949,3,8
+220,"Hotel Gastélum, Segovia y Lebrón",Diagonal Maldivas 918 188,+56908754436,4,8
+221,Hotel Guzmán-Meraz y Asociados,Cerrada Andorra 859 290,+56930599691,4,8
+222,"Hotel Industrias Villagómez, Toledo y Enríquez",Continuación Djibouti 408 Interior 051,+56951752929,5,8
+223,Hotel Barraza y Orellana S.A. de C.V.,"Diagonal Manzanares 253 Edif. 052 , Depto. 356",+56930758775,4,8
+224,Hotel Paredes-Bétancourt,"Cerrada Roldán 383 Edif. 678 , Depto. 564",+56925865371,1,8
+225,Hotel Proyectos Villarreal y Zúñiga,Diagonal Rolón 555 570,+56914544363,4,9
+226,Hotel Laboratorios Briseño y Orozco,"Avenida Chiapas 166 Edif. 356 , Depto. 019",+56984449930,1,9
+227,Hotel Osorio y Asociados,"Avenida Uruguay 008 Edif. 334 , Depto. 971",+56914522473,1,9
+228,"Hotel Mora, Murillo y Vanegas",Viaducto Puebla 267 Interior 924,+56984459901,1,9
+229,Hotel Saldivar y Moya A.C.,Viaducto Sur Irizarry 396 Interior 120,+56907791613,4,9
+230,Hotel Corona-Alvarez S.A. de C.V.,"Prolongación Aguascalientes 105 Edif. 527 , Depto. 108",+56908721574,3,9
+231,Hotel Grupo Centeno-Iglesias,Calzada Sur Rubio 596 Interior 217,+56907843964,1,9
+232,"Hotel Laboratorios Ledesma, Méndez y Cazares","Corredor Norte Pizarro 166 Edif. 913 , Depto. 615",+56987705369,1,9
+233,Hotel Corporacin Manzanares y Aguayo,Boulevard Sur Orosco 606 709,+56941710358,5,9
+234,Hotel Benavides-Merino,Ampliación República de Corea 623 555,+56949817999,1,9
+235,Hotel Club Uribe-Arriaga,Callejón Nuevo León 741 079,+56955653005,5,9
+236,Hotel Bravo-Espinal y Asociados,Viaducto Guinea Ecuatorial 469 300,+56952276720,3,9
+237,Hotel Vigil-Granado,Cerrada Norte Muro 604 908,+56962769190,3,9
+238,"Hotel Grupo Garza, Lucio y Rico","Circunvalación Islandia 099 Edif. 254 , Depto. 298",+56994451937,2,9
+239,Hotel Luevano-Mora S.A.,"Eje vial Sur Rascón 867 Edif. 208 , Depto. 740",+56907324248,3,9
+240,Hotel Industrias Otero y Quezada,Pasaje Turkmenistán 722 Interior 600,+56926080472,2,9
+241,"Hotel Serrato, Solís y León",Boulevard Sur Romero 434 Interior 149,+56911899984,1,9
+242,Hotel Valentín S.C.,Calle Arteaga 534 Interior 389,+56939508060,1,9
+243,"Hotel Grupo Orta, Quiroz y Pantoja",Prolongación Norte Galindo 047 Interior 528,+56961269008,4,9
+244,Hotel Varela y Ulibarri e Hijos,Privada Dominicana 997 157,+56917050093,1,9
+245,Hotel Olivo-Olmos S.A. de C.V.,Callejón Países Bajos 184 763,+56901218292,4,9
+246,Hotel Muñiz-Ballesteros S.C.,Prolongación Santo Tomé y Príncipe 558 Interior 009,+56957067878,5,9
+247,Hotel Despacho Rojas y Ruiz,Ampliación Sur Cardenas 131 Interior 320,+56990659145,5,9
+248,Hotel Club Quezada y Zedillo,Calle Benavides 706 200,+56904693223,5,9
+249,Hotel Club Pedroza-Medina,Prolongación Salcedo 642 742,+56988689328,1,9
+250,Hotel Laboratorios Olivares y Riojas,Corredor Tamaulipas 144 399,+56943940631,2,10
+251,"Hotel Bernal, Regalado y Patiño",Ampliación San Luis Potosí 472 548,+56959610684,3,10
+252,Hotel Peña-Berríos,Diagonal Quintana Roo 240 902,+56911490193,2,10
+253,"Hotel Laboratorios Mayorga, Reynoso y Montoya","Ampliación Cardenas 673 Edif. 081 , Depto. 544",+56983662323,1,10
+254,Hotel García S.A.,Calzada Norte Barragán 255 Interior 972,+56909606411,1,10
+255,Hotel Corporacin Serrano-Porras,Callejón Oaxaca 780 365,+56914112540,2,10
+256,Hotel Loya e Hijos,"Boulevard Líbano 591 Edif. 473 , Depto. 172",+56950429614,4,10
+257,Hotel Corral S.A. de C.V.,Corredor Duarte 156 Interior 328,+56923234268,1,10
+258,"Hotel Villalpando, Santacruz y Carreón","Ampliación Sonora 298 Edif. 793 , Depto. 186",+56994765829,3,10
+259,Hotel Escobedo y Asociados,Diagonal Hungría 322 805,+56914325891,3,10
+260,Hotel Industrias Ojeda y Amaya,Periférico Tlaxcala 571 Interior 158,+56909301362,4,10
+261,Hotel Tapia y Fuentes S.C.,"Callejón Tamaulipas 846 Edif. 506 , Depto. 470",+56977939741,3,10
+262,Hotel Grupo Gamboa y Granados,Viaducto Eritrea 940 Interior 703,+56950037964,1,10
+263,Hotel Juárez S.C.,Eje vial Querétaro 948 Interior 863,+56911068499,2,10
+264,Hotel Bustamante-Munguía A.C.,Viaducto Villanueva 621 734,+56975667761,1,10
+265,Hotel Club de la Crúz-Lebrón,Privada Uzbekistán 788 315,+56985594213,4,10
+266,Hotel Industrias Hernández-Canales,Callejón Robledo 131 070,+56929402436,1,10
+267,Hotel Pérez y Peña S. R.L. de C.V.,Viaducto Sur Quiroz 209 952,+56983293627,3,10
+268,Hotel Despacho Aragón y Valencia,"Circuito Venezuela 580 Edif. 305 , Depto. 658",+56951483387,3,10
+269,"Hotel Medina, Chávez y Coronado",Retorno Cervantes 347 524,+56961595478,4,10
+270,Hotel Club Espino-Ibarra,"Andador Norte Posada 898 Edif. 755 , Depto. 842",+56937999355,5,10
+271,Hotel Jáquez y Carvajal S. R.L. de C.V.,"Peatonal Chipre 146 Edif. 279 , Depto. 779",+56904555390,4,10
+272,"Hotel Proyectos Angulo, Barrios y Tello",Diagonal Nuevo León 580 Interior 689,+56979947108,3,10
+273,"Hotel Tirado, Almaraz y Nájera",Boulevard Feliciano 054 Interior 233,+56948769252,2,10
+274,Hotel Puente y Pacheco S.C.,"Circuito Hungría 891 Edif. 052 , Depto. 452",+56977791822,5,10
+275,Hotel Irizarry S.A.,"Diagonal República de Corea 129 Edif. 191 , Depto. 587",+56958357625,4,11
+276,Hotel Despacho Guerra-Haro,Callejón Durango 865 048,+56919346618,3,11
+277,Hotel Escobar A.C.,Continuación Zacatecas 863 Interior 227,+56903425220,4,11
+278,Hotel Miranda y Cervantes S.A.,Continuación Yucatán 062 Interior 978,+56904936704,1,11
+279,Hotel Méndez y Carvajal A.C.,"Circunvalación Sur Franco 939 Edif. 277 , Depto. 038",+56965496356,1,11
+280,Hotel Berríos S.C.,"Circuito Burundi 963 Edif. 166 , Depto. 657",+56979525739,4,11
+281,"Hotel Industrias Ledesma, Robledo y Manzanares",Cerrada Orta 969 173,+56973280649,2,11
+282,Hotel Dueñas A.C.,"Calle Sur Monroy 614 Edif. 216 , Depto. 034",+56919000330,3,11
+283,Hotel Industrias Báez y Merino,Corredor Lemus 929 988,+56911558675,1,11
+284,"Hotel Duarte, Salinas y Franco",Peatonal Mauritania 830 140,+56971062891,4,11
+285,Hotel Laboratorios Rascón-Nieto,Viaducto Sur Carrero 238 135,+56957357750,4,11
+286,"Hotel Grupo Orosco, Sánchez y Tafoya","Pasaje México 791 Edif. 086 , Depto. 642",+56926847079,1,11
+287,Hotel Olivo-Barraza y Asociados,"Andador Yemen 914 Edif. 947 , Depto. 898",+56975338311,4,11
+288,Hotel Guillen-Acuña S.A.,"Circunvalación Sur Carreón 435 Edif. 181 , Depto. 980",+56940516372,2,11
+289,Hotel Laboratorios del Valle y Godoy,Continuación Gallardo 335 Interior 076,+56921669861,1,11
+290,"Hotel Despacho Adame, Casillas y Guillen",Calle Sur Zavala 197 237,+56935937890,2,11
+291,Hotel Paredes S.A.,"Prolongación Sonora 410 Edif. 318 , Depto. 380",+56900961767,1,11
+292,Hotel Coronado-Vergara,Callejón Campeche 682 Interior 325,+56936339103,2,11
+293,Hotel Proyectos González y Caldera,Viaducto Aguascalientes 094 Interior 325,+56989028904,3,11
+294,"Hotel Despacho Laboy, Zúñiga y Mata",Circuito Canales 573 Interior 760,+56966759426,1,11
+295,Hotel Collazo-Santiago,Andador Irán 463 784,+56916335058,2,11
+296,Hotel Fierro S. R.L. de C.V.,"Viaducto Aguascalientes 313 Edif. 069 , Depto. 117",+56929966204,4,11
+297,Hotel Véliz-Vargas,Calzada Norte Córdova 256 711,+56920747219,1,11
+298,"Hotel Preciado, Benavides y Cardona",Periférico Corrales 776 419,+56953156791,4,11
+299,"Hotel Laboy, Guardado y Pacheco","Viaducto Robledo 735 Edif. 932 , Depto. 989",+56967076549,4,11
+300,Hotel Laboratorios Archuleta-Armas,"Calle Sinaloa 411 Edif. 692 , Depto. 248",+56908149919,1,12
+301,Hotel Zapata y Paredes A.C.,Viaducto Cuellar 129 Interior 882,+56937183785,1,12
+302,"Hotel Rocha, Puente y Córdova","Andador Lituania 895 Edif. 916 , Depto. 246",+56915557104,1,12
+303,Hotel Monroy-Santana,Corredor Norte Barreto 710 Interior 887,+56900795950,3,12
+304,Hotel Club León y Baca,Circuito España 753 935,+56978314861,3,12
+305,Hotel Elizondo y Olivo e Hijos,Eje vial Sosa 931 061,+56998167816,1,12
+306,Hotel Club Narváez-Lucio,"Pasaje Puebla 305 Edif. 737 , Depto. 782",+56964437586,4,12
+307,Hotel Jasso S.A.,Ampliación Aguascalientes 840 917,+56994563703,3,12
+308,Hotel Maya-Farías,"Diagonal Quintana Roo 345 Edif. 653 , Depto. 461",+56943812457,1,12
+309,"Hotel Rodríquez, Hurtado y Perea",Circuito Ramos 703 Interior 509,+56978924919,4,12
+310,Hotel Despacho Valencia-Anaya,Prolongación Chihuahua 753 Interior 277,+56912516902,4,12
+311,Hotel Hurtado-Lemus S.C.,"Eje vial Norte Mejía 532 Edif. 387 , Depto. 246",+56946449112,5,12
+312,Hotel Mena-Jaimes,"Pasaje Líbano 033 Edif. 895 , Depto. 637",+56926273982,1,12
+313,"Hotel Club Collazo, Girón y Laureano",Corredor Fiji 513 169,+56998453294,4,12
+314,Hotel Ramírez y Valdés S. R.L. de C.V.,Callejón Tamaulipas 510 Interior 063,+56908057943,3,12
+315,"Hotel Flórez, Ureña y Guillen",Diagonal Vega 032 605,+56950846241,2,12
+316,Hotel Matos y del Río y Asociados,"Callejón Omán 748 Edif. 548 , Depto. 018",+56966469060,2,12
+317,"Hotel Grupo Laureano, Montenegro y Sierra",Callejón Franco 950 Interior 920,+56973100087,4,12
+318,Hotel Orozco-Menéndez S.A.,Cerrada Lebrón 723 Interior 102,+56920756303,5,12
+319,"Hotel Grupo Garibay, Ureña y Zamudio",Viaducto Sur Vaca 576 752,+56929926215,4,12
+320,Hotel Dávila-Garay S.C.,Corredor Vanuatu 125 Interior 378,+56997850944,5,12
+321,Hotel Montez-Salinas,Viaducto Nuevo León 398 416,+56992139992,4,12
+322,"Hotel Industrias Estrada, Mercado y Aranda",Corredor Lituania 988 Interior 378,+56985783559,3,12
+323,"Hotel Mena, Suárez y Ayala",Peatonal Norte Cardona 655 Interior 497,+56953484422,1,12
+324,Hotel Montez-Tejada S.A. de C.V.,Callejón Norte Cordero 046 Interior 750,+56974439829,3,12
+325,Hotel Sierra-Samaniego S.A.,Periférico Distrito Federal 189 577,+56903710096,5,13
+326,"Hotel Grupo Tejada, Fajardo y Rosas","Boulevard Sur Collado 128 Edif. 964 , Depto. 424",+56905871941,3,13
+327,Hotel Industrias Zayas y Aguilar,"Diagonal Kuwait 456 Edif. 420 , Depto. 623",+56941315189,4,13
+328,Hotel Laboratorios Echeverría y Sarabia,Boulevard Norte Lara 628 Interior 675,+56918615770,3,13
+329,Hotel Madrigal S.A.,Viaducto Papua Nueva Guinea 452 Interior 022,+56967135117,4,13
+330,Hotel Laboratorios Ornelas y Ávila,Ampliación Sotelo 272 411,+56991823693,2,13
+331,Hotel Laboratorios Mares y Narváez,Viaducto Sur Marroquín 311 Interior 100,+56970255243,2,13
+332,Hotel Granados-Gamboa,Callejón Ucrania 720 Interior 494,+56926263887,4,13
+333,Hotel Zambrano y Morales A.C.,Privada Hidalgo 710 486,+56965310879,5,13
+334,Hotel Benavides S.A.,Periférico Norte Razo 198 Interior 479,+56903437605,4,13
+335,"Hotel Corporacin Nieves, Franco y Carreón",Continuación Hidalgo 206 857,+56993888310,5,13
+336,"Hotel Laboratorios Marín, Zaragoza y Samaniego",Privada Sur Dueñas 202 094,+56970290161,5,13
+337,"Hotel Proyectos Candelaria, Olivárez y Fernández",Boulevard Arellano 572 211,+56915593261,1,13
+338,Hotel Beltrán e Hijos,"Prolongación Sur Contreras 882 Edif. 415 , Depto. 895",+56937097320,5,13
+339,"Hotel Laboratorios Echeverría, Portillo y Crespo",Diagonal Longoria 444 Interior 450,+56914767299,3,13
+340,Hotel Meléndez-Quezada,Viaducto Robledo 884 817,+56949430441,2,13
+341,"Hotel Industrias Iglesias, Barreto y Ballesteros","Circuito Sur Vigil 202 Edif. 303 , Depto. 872",+56908229139,3,13
+342,Hotel Espinal-Mares S.A.,Avenida Norte Almaraz 471 070,+56965295235,4,13
+343,"Hotel Partida, Navarro y Santillán","Peatonal Yucatán 424 Edif. 346 , Depto. 911",+56927121290,2,13
+344,"Hotel Meza, Caballero y Caldera","Periférico Sur Esparza 011 Edif. 667 , Depto. 784",+56927390190,3,13
+345,Hotel Esquivel-Casares,Corredor Mónaco 374 778,+56962329249,5,13
+346,Hotel Vera-Escalante S.A.,Ampliación Enríquez 778 Interior 234,+56915449105,1,13
+347,Hotel Zayas y Caballero S.A.,"Continuación Campeche 038 Edif. 093 , Depto. 969",+56920560792,4,13
+348,Hotel Industrias Serrano y Mata,"Eje vial Norte Navarro 799 Edif. 857 , Depto. 480",+56970232822,2,13
+349,Hotel Guzmán S.C.,Periférico Montaño 338 995,+56943463535,4,13
+350,Hotel Barajas-Lugo,Peatonal México 873 Interior 938,+56967359276,2,14
+351,Hotel Velasco S.A. de C.V.,Andador Norte Alcaraz 897 Interior 858,+56924780425,3,14
+352,Hotel Benavídez-Serrano,Boulevard Arriaga 042 305,+56966750521,1,14
+353,Hotel Cardenas S.C.,Pasaje Norte Arenas 640 898,+56910107614,2,14
+354,Hotel Mota y Barrera A.C.,"Corredor Rendón 251 Edif. 721 , Depto. 664",+56927433223,2,14
+355,Hotel Pérez-Villagómez e Hijos,"Callejón Norte Campos 511 Edif. 221 , Depto. 947",+56923853301,2,14
+356,Hotel Corporacin Irizarry-Valenzuela,Calle Sur Carrasco 042 Interior 999,+56997552452,5,14
+357,"Hotel Orosco, Hurtado y Oquendo","Boulevard Rentería 723 Edif. 078 , Depto. 420",+56911296949,5,14
+358,Hotel Meza e Hijos,Continuación Zacatecas 592 Interior 343,+56964283423,3,14
+359,Hotel Grupo Hurtado-Irizarry,Calzada Croacia 723 Interior 824,+56924535552,2,14
+360,Hotel Cadena-Espinal S.C.,"Circunvalación Rodarte 170 Edif. 987 , Depto. 160",+56990311038,1,14
+361,Hotel Cadena-Vega y Asociados,"Calle Distrito Federal 886 Edif. 467 , Depto. 183",+56965229796,5,14
+362,Hotel Velásquez-Ceballos A.C.,"Peatonal Nayarit 397 Edif. 042 , Depto. 019",+56965696690,4,14
+363,Hotel Chacón A.C.,Eje vial Belarús 872 554,+56948064489,4,14
+364,Hotel Carrasco y Segura e Hijos,Avenida Ulibarri 378 Interior 600,+56956376645,5,14
+365,Hotel Orosco y Cardenas y Asociados,"Boulevard Hernández 825 Edif. 015 , Depto. 316",+56946242004,2,14
+366,Hotel Robledo S.A.,Eje vial Sonora 423 Interior 154,+56938933628,3,14
+367,Hotel Zambrano-Villarreal e Hijos,"Periférico Sevilla 117 Edif. 651 , Depto. 630",+56942224833,2,14
+368,Hotel Alemán-Rivera,"Prolongación Sur Aguilar 401 Edif. 240 , Depto. 331",+56995440116,3,14
+369,Hotel Laboratorios Trujillo-Terán,"Privada Jalisco 591 Edif. 213 , Depto. 104",+56960973429,2,14
+370,Hotel Corporacin Samaniego y Ulloa,"Avenida Norte Roybal 619 Edif. 996 , Depto. 657",+56973461380,4,14
+371,"Hotel Chávez, Toro y Ontiveros","Privada San Luis Potosí 151 Edif. 843 , Depto. 413",+56934054183,3,14
+372,Hotel Aranda y Vela A.C.,Callejón Norte Miranda 837 Interior 637,+56908464121,1,14
+373,Hotel Monroy-Rojas,Privada Papua Nueva Guinea 671 Interior 039,+56985679506,1,14
+374,Hotel Gastélum-Espinal A.C.,Eje vial Colunga 617 721,+56900083667,4,14
+375,"Hotel Despacho Altamirano, Adame y Zapata",Continuación Estonia 321 Interior 529,+56982015780,4,15
+376,"Hotel Laboratorios Ocasio, Sevilla y Griego",Calle Swazilandia 615 Interior 499,+56993198332,2,15
+377,Hotel Peres-Rangel,Continuación Tlaxcala 446 137,+56933833716,2,15
+378,Hotel Báez y Jimínez S.A. de C.V.,"Cerrada Longoria 437 Edif. 016 , Depto. 990",+56993811200,3,15
+379,Hotel López y Cornejo A.C.,"Retorno Togo 584 Edif. 538 , Depto. 184",+56909369982,4,15
+380,Hotel Méndez-Santiago A.C.,"Andador Nayarit 652 Edif. 224 , Depto. 964",+56942221571,4,15
+381,"Hotel Laboratorios Reséndez, Archuleta y Narváez",Calzada Myanmar 887 075,+56944197925,5,15
+382,Hotel Marroquín-Padrón A.C.,Corredor Tlaxcala 784 809,+56996787644,3,15
+383,Hotel Grupo Valenzuela y Zayas,Ampliación Sur Romero 071 501,+56917681426,2,15
+384,Hotel Bustos-Díaz,"Privada Prieto 364 Edif. 203 , Depto. 262",+56954320160,1,15
+385,"Hotel Proyectos Cruz, Canales y Tovar",Circunvalación Rwanda 452 Interior 007,+56962971001,3,15
+386,Hotel Pantoja-Lucio A.C.,"Boulevard Collazo 124 Edif. 389 , Depto. 127",+56901834110,2,15
+387,Hotel Puente-Sierra,"Prolongación Solorzano 847 Edif. 761 , Depto. 455",+56978967323,2,15
+388,Hotel Corona-Medina y Asociados,"Pasaje Sur Herrera 702 Edif. 575 , Depto. 997",+56982457902,4,15
+389,Hotel Proyectos Garica y Carranza,Circuito Serbia 732 516,+56917472720,2,15
+390,Hotel Corporacin Tórrez-Barela,Circunvalación Hidalgo 071 Interior 493,+56917765166,2,15
+391,Hotel Pichardo S.A.,Circunvalación Distrito Federal 912 Interior 770,+56995487749,3,15
+392,Hotel Orellana-Terrazas S.C.,Prolongación Vela 220 745,+56981624912,4,15
+393,Hotel Puga-Ornelas S.A. de C.V.,Avenida Sur Ojeda 754 Interior 855,+56946104296,2,15
+394,Hotel Laboratorios Santillán y Concepción,Circuito Baja California 103 Interior 959,+56960199128,4,15
+395,"Hotel Leyva, del Río y Sanches",Diagonal Alemán 331 460,+56912657664,5,15
+396,Hotel Suárez y Caraballo e Hijos,"Viaducto República Árabe Siria 507 Edif. 585 , Depto. 871",+56909787856,2,15
+397,Hotel Patiño y Asociados,"Calzada Tabasco 752 Edif. 394 , Depto. 420",+56975398658,4,15
+398,"Hotel Industrias Cintrón, Díaz y Mora",Calzada Norte Olvera 365 151,+56955846843,4,15
+399,Hotel Ojeda-Tórrez y Asociados,Calzada Yucatán 077 Interior 566,+56939873837,5,15

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="IIC2413" showDialogOnRemoteDnD="false">
+    <serverData>
+      <paths name="IIC2413">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Entrega2" local="$PROJECT_DIR$" web="/~grupo47" />
+            <mapping deploy="/index.php" local="$PROJECT_DIR$/index.php" web="/~grupo47" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
