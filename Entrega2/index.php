@@ -64,8 +64,15 @@
       <input type="submit" value="Buscar">
   </form>
   <br>
+
   <h1 style="color:black; font-family: Verdana; font-size: 16pt;">Consulta 5: </h1>
   <p> Habitación más reservada por región.</p> <br>
+  <form action="Entrega2/app/consultas/consulta_habitacion_max_region.php" method="post">
+      Región:
+      <input type="text" name="region_hab">
+      <br/><br/>
+      <input type="submit" value="Buscar">
+  </form>
   <h1 style="color:black; font-family: Verdana; font-size: 16pt;">Consulta 6: </h1>
   <p> Usuarios que han reservado la habitación más barata de la región "x". </p>
   <form action="Entrega2/app/consultas/consulta_usuario_barata.php" method="post">
@@ -76,19 +83,23 @@
   </form>
   <br>
   <h1 style="color:black; font-family: Verdana; font-size: 16pt;">Consulta 7: </h1>
+  <p> Mostrar usuario y monto de la reserva "i". </p> <br>
   <form action="Entrega2/app/consultas/consulta_precio_reserva.php" method="post">
       ID reserva:
       <input type="text" name="reserva">
       <br/><br/>
       <input type="submit" value="Buscar">
   </form>
-
-  <p> Mostrar usuario y monto de la reserva "i". </p> <br>
+  <br>
   <h1 style="color:black; font-family: Verdana; font-size: 16pt;">Consulta 8: </h1>
   <p>Mostrar la i-ésima habitación más cara. </p>
+  <form action="Entrega2/app/consultas/consulta_habitacion_cara.php" method="post">
+      I-ésima habitación:
+      <input type="number" name="ihabitacion">
+      <br/><br/>
+      <input type="submit" value="Buscar">
+  </form>
 
-
-  
   <br><br><br><br>
 </body>
 </html>
